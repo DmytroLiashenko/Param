@@ -31,10 +31,7 @@ public class TestFlowers extends BuferFlowers {
             System.out.println(i++);
             flowersBundle= ResourceBundle.getBundle(language.getLang());
             flowersPages= PageFactory.initElements(driver, FlowersPages.class);
-
         }
-
-
     }
 @Test
     public void testTab1(){

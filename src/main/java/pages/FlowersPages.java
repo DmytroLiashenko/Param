@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class FlowersPages {
-    @FindBy(xpath="/html/body/div[1]/header/div[2]/div/div/div[1]/div/div[2]/div[2]/nav/ul/li[2]")
+    @FindBy(xpath=("//li[contains(@class,\"nav-item active\")]"))
     WebElement tab1;
     @FindBy(linkText="Доставка та оплата")
     WebElement tab2;

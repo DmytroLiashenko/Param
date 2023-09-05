@@ -4,41 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ef645-c1d5-4f56-8d49-c38bd06de24e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/ConfigurationWebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/WebDrivers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/BuferFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/BuferWiki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/DATA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/ResourseEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CertificatePag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/FlowersPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/WikiPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/EN_f.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/UK_f.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dmytro.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testHome.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/uk.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CertificateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestWiki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WIKITEST.java" afterDir="false" />
+    <list default="true" id="f83ef645-c1d5-4f56-8d49-c38bd06de24e" name="Changes" comment="HW19">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/FlowersPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/FlowersPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFlowers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,17 +132,19 @@
       <option name="presentableId" value="Default" />
       <updated>1688377769742</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW19">
+      <option name="closed" value="true" />
+      <created>1693839546057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693839546057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/TestFlowers.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW19" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW19" />
   </component>
 </project>
